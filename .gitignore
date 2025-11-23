@@ -40,3 +40,7 @@ node_modules/
 
 # Playwright screenshots and artifacts
 .playwright-mcp/
+
+# Music files and covers (add your own)
+songs/
+covers/
